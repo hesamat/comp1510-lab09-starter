@@ -1,19 +1,16 @@
-# COMP-1510-202630-LAB-09
-Every program needs a README.md
+# COMP 1510 Lab 09 - Iced Tea Shop
 
-This is written in markdown.
+Follow the lab handout (PDF) for the full requirements.
 
-Read about markdown here: [markdowncheatsheet](https://www.markdownguide.org/cheat-sheet/)
+`icedtea.py` is the program you complete. The seven constants at the
+top hold the stand's prices and choices, and you do not change them.
+`take_add_ins` is finished, but it misbehaves: run the program before
+you change anything. Write the whole suite in `tests/test_lab09.py`
+yourself: there are no starter examples this time, and you test every
+function before you implement it.
 
-## YOUR NAME:
-Replace this line with your name
+`main()` starts with the add-in demonstration. Leave it alone. You add
+your own lines in the last two parts.
 
-## YOUR STUDENT NUMBER:
-Replace this line with your student number
-
-## YOUR GITHUB NAME:
-Replace this line with your GitHub name
-
-## HOW DID THE LAB GO:
-Insert any comments you would like to share
-AFTER you finish the lab
+Submit `icedtea.py` and `test_lab09.py` to the Lab 9 dropbox in
+Learning Hub before the deadline.
